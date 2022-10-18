@@ -1,4 +1,4 @@
-# My-Projects
+# Data Science Projects
 World Happiness Report (WHR) utilizes global survey data to report happiness 
 WHR data is collected on quality-of-life factors, and how the survey respondents rate their own lives
 WHR survey is conducted in more than 150 countries worldwide, and data is collected from the Gallup World Poll
